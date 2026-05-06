@@ -23,7 +23,6 @@ function App() {
       {/* ── TOP NAVIGATION BAR ── */}
       <nav className="top-nav">
         <div className="nav-logo">
-          <span className="nav-logo-icon">☕</span>
           <span className="nav-logo-text">
             Chai<span className="logo-accent">Tube</span>
           </span>
@@ -123,7 +122,7 @@ function App() {
       {/* ── SITE FOOTER ── */}
       <div className="site-footer">
         <p className="footer-text">
-          Built with <span className="footer-accent">☕</span> — ChaiTube © 2026
+          Built with <span className="footer-accent"></span> — ChaiTube © 2026
         </p>
       </div>
     </div>
